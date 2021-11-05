@@ -1,4 +1,5 @@
-# Call-Transcript
+# Presentation in Tableau Public
+https://public.tableau.com/views/CallTranscripts-dataviz/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 # FB-GOOG-transcripts.ipynb
 - code for web scraping Facebook & Google's Call Transcripts for Q2 2021;
